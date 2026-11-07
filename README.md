@@ -55,18 +55,6 @@ The result is an actively developed browser Pokémon MMO with a modernized backe
 
 # Screenshots
 
-<img width="3787" height="1850" alt="1" src="https://github.com/user-attachments/assets/67f1482e-562a-42bb-bad0-bb8e8fb1c0fd" />
-
-<img width="3790" height="1847" alt="6" src="https://github.com/user-attachments/assets/e408b174-6100-4291-ac49-3f0656dacc3a" />
-
-<img width="3785" height="1852" alt="1" src="https://github.com/user-attachments/assets/5fe882a9-8041-4fcb-922e-a74c1423610a" />
-
-<img width="3789" height="1853" alt="3" src="https://github.com/user-attachments/assets/7e928f10-3f80-4e23-af7e-3af981543e89" />
-
-<img width="3791" height="1851" alt="4" src="https://github.com/user-attachments/assets/e24fd72f-77e7-434d-8cbe-56021ea53b82" />
-
-<img width="3791" height="1851" alt="5" src="https://github.com/user-attachments/assets/3af3d95c-8f97-4756-9070-d7b3683f8bea" />
-
 ---
 
 # Trainer Accounts & Persistent Progress
